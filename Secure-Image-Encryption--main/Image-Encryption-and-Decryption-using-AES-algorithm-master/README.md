@@ -53,5 +53,5 @@ While this tool provides a high level of security, it is essential to consider a
 ### Contact
 [tonyamoyah3@gmail.com]
 
-**Would you like to add more details about the encryption algorithm used or any specific features of the tool?** 
+
 
