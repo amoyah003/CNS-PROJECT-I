@@ -39,7 +39,7 @@ cd Image-Encryption
 4. Specify the output file path.
 5. Click the **Encrypt** button.
 
-#### Encryption Code Example
+#### Encryption Code 
 ```python
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import pad
@@ -75,7 +75,7 @@ def encrypt(image_path, password):
 4. Specify the output file path.
 5. Click the **Decrypt** button.
 
-#### Decryption Code Example
+#### Decryption Code 
 ```python
 from Crypto.Cipher import AES
 from Crypto.Util.Padding import unpad
